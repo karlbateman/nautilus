@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [120],
+    "editor.wordWrapColumn": 119,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    }
+}
